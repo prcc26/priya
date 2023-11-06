@@ -1,8 +1,5 @@
 # priya
 data warehousing 
-Certainly, here's a sample structure for a comprehensive README file for an IBM Db2 data warehousing project:
-
----
 
 # IBM Db2 Data Warehousing Project
 
